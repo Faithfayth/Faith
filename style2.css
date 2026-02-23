@@ -9,6 +9,10 @@ h1{
     border-radius: 5px;
     margin: 0;
 }
+.intro1 h1 {
+    border: 1px solid #8a0606;
+    padding: 10px;
+}
 .intro2 {
     background-color: bisque;
     margin: 0;
@@ -17,6 +21,16 @@ h1{
 .intro22 {
     background-color: rgb(253, 211, 159);
     padding: 20px;
+}
+.intro2 .intro22, .skills2, .abilities2, .socials2 {
+    border: 1px solid #8a0606;
+    padding: 10px;
+}
+.intro2 .intro22 h3, .skills2 h3, .abilities2 h3, .socials2 h3 {
+    border: 1px solid #8a0606;
+    display: inline;
+    padding: 5px;
+    border-radius: 10%;
 }
 .skills1 {
     background-color: #f09bbc7c;
