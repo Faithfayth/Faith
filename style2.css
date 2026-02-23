@@ -1,5 +1,45 @@
 h1{
-    color: #e62626;
+    color: #8a0606;
     font-size: 28px;
     margin-bottom: 20px;
+}
+.intro1 {
+    background-color: #f09bbc7c;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0;
+}
+.intro2 {
+    background-color: bisque;
+    margin: 0;
+    padding: 40px;
+}
+.intro22 {
+    background-color: rgb(253, 211, 159);
+    padding: 20px;
+}
+.skills1 {
+    background-color: #f09bbc7c;
+    padding: 40px;
+    margin: 0;
+}
+.skills2 {
+    background-color: #eb6a9bda;
+    padding: 20px;
+}
+.abilities1 {
+    background-color: #eb6a9bda;
+    padding: 40px;
+}
+.abilities2 {
+    background-color: bisque;
+    padding: 20px;
+}
+.socials1 {
+    background-color: rgb(253, 211, 159);
+    padding: 40px;
+}
+.socials2 {
+    background-color: #f09bbc7c;
+    padding: 20px;
 }
